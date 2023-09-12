@@ -1,0 +1,52 @@
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.Form1.resources
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.Properties.Resources.resources
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.GenerateResource.cache
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\bin\Debug\WindowsFormsBoxShop.exe.config
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\bin\Debug\WindowsFormsBoxShop.exe
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\bin\Debug\WindowsFormsBoxShop.pdb
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\bin\Debug\BoxDelivery.exe
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\bin\Debug\BoxDelivery.pdb
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\bin\Debug\BoxDelivery.exe.config
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.CopyComplete
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.exe
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.pdb
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\bin\Debug\WindowsFormsBoxShop.exe.config
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\bin\Debug\WindowsFormsBoxShop.exe
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\bin\Debug\WindowsFormsBoxShop.pdb
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\bin\Debug\BoxDelivery.exe
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\bin\Debug\BoxDelivery.pdb
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\bin\Debug\BoxDelivery.exe.config
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.Properties.Resources.resources
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.CopyComplete
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.exe
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.pdb
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.MainPage.resources
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.Customer.resources
+C:\Users\User\Desktop\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.Manager.resources
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.AssemblyReference.cache
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.exe
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.pdb
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\bin\Debug\WindowsFormsBoxShop.exe.config
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\bin\Debug\WindowsFormsBoxShop.exe
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\bin\Debug\WindowsFormsBoxShop.pdb
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\bin\Debug\BoxDelivery.exe
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\bin\Debug\BoxDelivery.pdb
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\bin\Debug\BoxDelivery.exe.config
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.Customer.resources
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.MainPage.resources
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.Manager.resources
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.Properties.Resources.resources
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.GenerateResource.cache
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.CoreCompileInputs.cache
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\WindowsFormsBoxShop\obj\Debug\WindowsFormsBoxShop.csproj.CopyComplete

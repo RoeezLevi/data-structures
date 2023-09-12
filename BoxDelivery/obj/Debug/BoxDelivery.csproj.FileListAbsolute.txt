@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\bin\Debug\BoxDelivery.exe.config
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\bin\Debug\BoxDelivery.exe
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\bin\Debug\BoxDelivery.pdb
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.CopyComplete
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.exe
+C:\Users\User\Desktop\מכללת סלע\c#\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.pdb
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\bin\Debug\BoxDelivery.exe.config
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\bin\Debug\BoxDelivery.exe
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\bin\Debug\BoxDelivery.pdb
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.CopyComplete
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.exe
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.pdb
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BoxDelivery\BoxDelivery\bin\Debug\Newtonsoft.Json.xml
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\bin\Debug\BoxDelivery.exe.config
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\bin\Debug\BoxDelivery.exe
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\bin\Debug\BoxDelivery.pdb
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\bin\Debug\Newtonsoft.Json.dll
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\bin\Debug\Newtonsoft.Json.xml
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.AssemblyReference.cache
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.CoreCompileInputs.cache
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.csproj.CopyComplete
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.exe
+C:\Users\r0542\Documents\BoxDelivery (3)\BoxDelivery\BoxDelivery\obj\Debug\BoxDelivery.pdb
